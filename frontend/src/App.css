@@ -1,0 +1,48 @@
+.app{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+.company{
+
+  border:2px solid black;
+  background-color: aquamarine;  
+  padding: 20px;
+  height:300px;
+  width:300px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.modal{
+  height:500px;
+  width:500px;
+  padding:50px;
+  /* background-color: bisque; */
+}
+
+
+
+table {
+  border: 2px solid forestgreen;
+  width: 100%;
+  height: 200px;
+  
+   
+}
+
+th {
+  border: 1px solid black;
+  
+}
+
+td {
+  text-align: center;
+  border: 1px solid black;
+ 
+}
+
+
